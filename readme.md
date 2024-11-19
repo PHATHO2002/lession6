@@ -1,0 +1,3 @@
+-Exception giúp xử lý lỗi tập trung,  không phải kiểm tra lỗi thủ công ;
+-có thể tùy chỉnh cách xử lý và hiển thị lỗi theo ý muốn của mình;
+-kiểm tra lỗi thông thường (thay vì chỉ dùng cho lỗi bất ngờ) sẽ làm cho mã  phức tạp và kém hiệu quả;
